@@ -6,4 +6,4 @@ WORKDIR /usr/src/myapp
 
 RUN javac app.java
 
-CMD ["java", "App.java"]
+CMD ["java", "app.java"]
